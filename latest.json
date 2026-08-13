@@ -1,16 +1,16 @@
 {
-  "version": "0.2.15",
-  "notes": "MaMaio 0.2.15：更新分流、刷新覆盖保护和默认编辑字号修复",
-  "pub_date": "2026-08-13T14:21:02.4593841Z",
-  "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.15/MaMaio_0.2.15_x64-setup.exe",
+  "version": "0.2.16",
+  "notes": "修复安装版主程序启动与免安装版更新连接；安装版和免安装版更新资产分流。",
+  "pub_date": "2026-08-13T15:11:47.3966359Z",
+  "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.16/MaMaio_0.2.16_x64-setup.exe",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.15/MaMaio_0.2.15_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSFJmVmJPYjdaNngrU2FUcXV0MS84WUt1VE5ENWdpU2NkZHMwZ0JrVEo4SGxwZHN5QUdvT1FsYUxRZC9BZXRRY255ZnJUNUpPSUZqeVpHdG93TzNlY1FSQzE1RFFEMVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjMwODMwCWZpbGU6TWFNYWlvXzAuMi4xNV94NjQtc2V0dXAuZXhlCnZVdHloeWZlUWY3RDE1K2JGZnJjZFRvbFV3WXZQRllPVXdadUtDRU9lMlhSRGtELzFlRVoxOEhaZ0Y2YzN3RDYzeEtiV1JWU01EZ0VSTGIvdzI4cUJ3PT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSFJmVmJPYjdaNnp0ZzJKT3M3b1ZISjYwbkRmTHhNM3hsTnNuRWhTSUFNOEQvS1ZJTVFxR3pjRSt0bzNUdFk3WVF6ajdXaUtJWkliUE52Ny9nc3prU2s3N1VOLzNNYndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjMzNzEyCWZpbGU6TWFNYWlvXzAuMi4xNl94NjQtc2V0dXAuZXhlCjFGb2I5aDVsUUdRd1czNk5xVGlwVEVINWcrMEpJS1ZVUkM0UXZWMGkrR3JkOUxMYkZBUG5VZ2Z6ODk2eHUwdmR6Vm1hdlpMc2tKYk0rZDgzckRmb0J3PT0K",
+      "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.16/MaMaio_0.2.16_x64-setup.exe"
     }
   },
   "portable": {
-    "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.15/MaMaio_0.2.15_x64-portable.zip",
-    "sha256": "f18cfc05a3ad6b57ed9421ce8ace09696cb7ab55b558d594a64941251366a569"
+    "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.16/MaMaio_0.2.16_x64-portable.zip",
+    "sha256": "b3dbe5f7d910402d70d76bff8e4daf51ebf9e8d65c01ef128fafe2f096285397"
   }
 }
