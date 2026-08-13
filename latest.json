@@ -1,16 +1,16 @@
 {
-  "portable": {
-    "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.18/MaMaio_0.2.18_x64-portable.zip",
-    "sha256": "3f1c2a83a123ea372b993054e12f26b57c953a66f9cb11753b99e1a571d0e4d8"
-  },
-  "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.18/MaMaio_0.2.18_x64-setup.exe",
-  "version": "0.2.18",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.18/MaMaio_0.2.18_x64-setup.exe",
+      "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.19/MaMaio_0.2.19_x64-setup.exe",
       "signature": ""
     }
   },
-  "pub_date": "2026-08-13T22:35:58.8210787Z",
-  "notes": "修复窗口最大化状态恢复、标题栏双击最大化/还原，以及空工作区重复选择提示。安装包为未签名本地构建；免安装包可直接使用。"
+  "version": "0.2.19",
+  "notes": "修复立即更新无反馈、代理下载超时、下载进度和无签名错误提示；完整免安装包必须包含 marker 与 updater。",
+  "pub_date": "2026-08-13T23:07:06.8469472Z",
+  "portable": {
+    "sha256": "ff8837a046de9e36dfb178950239e9ec780f7b136bd01c96623268f8cbbc4fd9",
+    "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.19/MaMaio_0.2.19_x64-portable.zip"
+  },
+  "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.19/MaMaio_0.2.19_x64-setup.exe"
 }
