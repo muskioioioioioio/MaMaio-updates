@@ -1,16 +1,16 @@
 {
-  "pub_date": "2026-08-13T23:52:49.3548292Z",
-  "version": "0.2.20",
+  "version": "0.2.22",
+  "notes": "MaMaio 工作区恢复与应用数据目录修复",
+  "pub_date": "2026-08-14T02:06:52.2636936Z",
+  "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.22/MaMaio_0.2.22_x64-setup.exe",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.20/MaMaio_0.2.20_x64-setup.exe",
-      "signature": ""
+      "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.22/MaMaio_0.2.22_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSFJmVmJPYjdaNjhwY05YR3IzQU92cFRIVUN6VDAzZjFFS2pJU0t5TFBkMUsrQmViMitHWTYwbVJLS21xSmVEenFBNnFQL3YzSytFNG9zYTVsNzZET1NvVzRPUlZ5SHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjczMDUwCWZpbGU6TWFNYWlvXzAuMi4yMl94NjQtc2V0dXAuZXhlCi95SUZyWWVDNUs2cTJhWm0wY0dBbUIrbWRleW5abE1JSG5IMytYdEtrTisyZTVodENFcy9CL1djaVBYeWxsQ1RpQk9lbDJrSzBMVzBpb0xvZDdxQUN3PT0K"
     }
   },
-  "notes": "修复卸载重装后工作区显示为空、同路径选择误报，以及设置打开应用数据目录使用旧路径的问题。",
-  "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.20/MaMaio_0.2.20_x64-setup.exe",
   "portable": {
-    "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.20/MaMaio_0.2.20_x64-portable.zip",
-    "sha256": "bf1a6c848c1e5de604d836c716d7a11b11f62f18743e146559caee52a92cf157"
+    "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.22/MaMaio_0.2.22_x64-portable.zip",
+    "sha256": "4111c9dfeaa7398b70964bef2e001db2b55727c1e368d1419badb8f2135839b4"
   }
 }
