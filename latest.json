@@ -1,16 +1,16 @@
 {
-  "version": "0.2.22",
-  "notes": "MaMaio 工作区恢复与应用数据目录修复",
-  "pub_date": "2026-08-14T02:06:52.2636936Z",
-  "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.22/MaMaio_0.2.22_x64-setup.exe",
+  "version": "0.2.23",
+  "notes": "MaMaio 多画布内存稳定性优化：智能休眠、最新草稿合并写入和内存快照监控",
+  "pub_date": "2026-08-18T07:59:01.6967393Z",
+  "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.23/MaMaio_0.2.23_x64-setup.exe",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.22/MaMaio_0.2.22_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSFJmVmJPYjdaNjhwY05YR3IzQU92cFRIVUN6VDAzZjFFS2pJU0t5TFBkMUsrQmViMitHWTYwbVJLS21xSmVEenFBNnFQL3YzSytFNG9zYTVsNzZET1NvVzRPUlZ5SHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjczMDUwCWZpbGU6TWFNYWlvXzAuMi4yMl94NjQtc2V0dXAuZXhlCi95SUZyWWVDNUs2cTJhWm0wY0dBbUIrbWRleW5abE1JSG5IMytYdEtrTisyZTVodENFcy9CL1djaVBYeWxsQ1RpQk9lbDJrSzBMVzBpb0xvZDdxQUN3PT0K"
+      "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.23/MaMaio_0.2.23_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSFJmVmJPYjdaNjl5Y3kzSG9wUFRkL2MyVkhMd01LSzI3a1h3Q3dQVzNDNkxidHhpVVRiMXg5OCtoZGxxajVVN2laZWRYdk5TTyt1QWhONXI3THJmaVROdFBYYmxhUlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDM5NjEwCWZpbGU6TWFNYWlvXzAuMi4yM194NjQtc2V0dXAuZXhlCi9HSW9SSUdKdnF1ZzllTXZiRnNDbTh3eWthRHRlZ054VzZlS1BRNkc2VmxkMTllc2N1QzBBZmZIbjd3MHZrTVZWS0VEUml6UWdVSmFPekNvQjI0TkNnPT0K"
     }
   },
   "portable": {
-    "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.22/MaMaio_0.2.22_x64-portable.zip",
-    "sha256": "4111c9dfeaa7398b70964bef2e001db2b55727c1e368d1419badb8f2135839b4"
+    "sha256": "2a9b13558337a08d8ebcbc06468d22399fe6c4da09bd17ac7f5dc0c4c7f89da6",
+    "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.23/MaMaio_0.2.23_x64-portable.zip"
   }
 }
