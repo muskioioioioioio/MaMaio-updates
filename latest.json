@@ -1,16 +1,16 @@
 {
-  "version": "0.2.25",
-  "notes": "安装版更新增加实时下载进度、已下载大小、速度显示和 5 分钟超时；不改变签名校验、安装重启和用户数据。",
-  "pub_date": "2026-08-18T09:35:14.0591565Z",
-  "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.25/MaMaio_0.2.25_x64-setup.exe",
+  "version": "0.2.26",
+  "notes": "悬浮侧栏、画布视口恢复、固定标签、休眠恢复与壳层体验改进。",
+  "pub_date": "2026-08-22T14:09:08Z",
+  "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.26/MaMaio_0.2.26_x64-setup.exe",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.25/MaMaio_0.2.25_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSFJmVmJPYjdaNnhPeXJUc25wdWNMVFY2U1JkT3E5OHh4TjNKYUozc05xWlhBYUZqQThYNUcySFQvM3dGNGVEeFdKc293eFB6L3JHekc5dWVSWmV4ZkxkVXJYcWxsMXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQ1NzAxCWZpbGU6TWFNYWlvXzAuMi4yNV94NjQtc2V0dXAuZXhlCnhpUkdrR0F1akZXdUQ1ZzZnUWYrL1BydlFpNCs4VkxFUzZoZ01ZamR5ZHkyUU5ycE14MVY1QXJtSHJGRlEzcDk5azNEQ2NEMG1QM0l1cUdzZXp5eUNnPT0K"
+      "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.26/MaMaio_0.2.26_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSFJmVmJPYjdaNnlLcDgyVGtqdCtVY0xjR3J0TGhtejM1TjFiTmUvM3VOOWpJMStPZWw3OE5rL3RqVUxvTGhmanljZEx0Z2hBY2FDaUZjRXc3ZkZIcXUra3dmTU12akFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDA3NzQ0CWZpbGU6TWFNYWlvXzAuMi4yNl94NjQtc2V0dXAuZXhlCk9TbWo2Z1FNdndHR3B4cE9wajFDYlNOWkNMYnRta2Y0ZStQdENqdkhJbWxncy85SlVRbVgwdHkrbzdGNC9ZQysrM1U5U2UybUtWMy80cTkwdFV5QUJBPT0K"
     }
   },
   "portable": {
-    "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.25/MaMaio_0.2.25_x64-portable.zip",
-    "sha256": "12ef8c9a4457b2e5e193f27a731ce7f4215c578f590a6fa5f33951da8e67c6ed"
+    "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.26/MaMaio_0.2.26_x64-portable.zip",
+    "sha256": "86c86ee259cb14ebce0e1024b0185a2d9559bd1bfbcef082e0086f76881fcb419"
   }
 }
