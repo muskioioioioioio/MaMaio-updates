@@ -1,3 +1,3 @@
-e87e3258180ac69d250588ba5cd398843aa67b0ac7ff63b683bc1ca0940874ea  MaMaio_0.2.46_x64-setup.exe
-d440d7e4fb71c762c3e0fbc37ef2e87e6b013b133812e30425573dd140f93fdb  MaMaio_0.2.46_x64-setup.exe.sig
-2e2e49c0e9a0d5dbbe0248550d719c333ba3fc03151a867b284052c8c2feb7ce  MaMaio_0.2.46_x64-portable.zip
+cf2daf1eacef5b0218ee11cb476bf057c459fc5a009b21bf84c857bc98adb803  MaMaio_0.2.47_x64-setup.exe
+d1fcf070c06749b6b5ddff475313d53ad21ee4e0eb1092e0febb4ef590071e14  MaMaio_0.2.47_x64-setup.exe.sig
+7b766cefc4adecac6b211b7da448020fa045d4ed5176129232813b75edda2e78  MaMaio_0.2.47_x64-portable.zip
