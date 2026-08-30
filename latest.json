@@ -1,16 +1,16 @@
 {
-  "version": "0.2.49",
+  "version": "0.2.50",
   "notes": "MaMaio 自动发布版本",
-  "pub_date": "2026-08-29T23:48:19.3464498Z",
-  "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.49/MaMaio_0.2.49_x64-setup.exe",
+  "pub_date": "2026-08-30T02:03:00.0452709Z",
+  "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.50/MaMaio_0.2.50_x64-setup.exe",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSFJmVmJPYjdaNndEWTc5cXFMTnRXMjJjdGNoTmVhT2tUMDBhZHBJcDlGYkdkbTFRNkJpTXQyQjJLeUtsbFREdU5IbUk0anpGYk85ajVvRkdnSjY3dUZEQkJVZnpZNndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDQ3MDg3CWZpbGU6TWFNYWlvXzAuMi40OV94NjQtc2V0dXAuZXhlCnB3ZkpRaXRhVFhBTWlEQWU2Y0cyRFFsVnhNQVIxZm1IV2NTREQzTWtoZWQ1WXpFUGpQMmIvV1JmclFYSU1aaldEWDVoZEVucUdhVEhZbStpODRkNkNBPT0K",
-      "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.49/MaMaio_0.2.49_x64-setup.exe"
+      "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.50/MaMaio_0.2.50_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSFJmVmJPYjdaNnd6Vm1kaFU3bmdlNkcyR0VwN3hteUxPVnltWFFpZjFybUpEemdud2d6ekNUSTNoOERJVzhZdDduMjVmVjJZL2ZtQWZUbFVBLytob08rVmZ6a29YcndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDU1MTkyCWZpbGU6TWFNYWlvXzAuMi41MF94NjQtc2V0dXAuZXhlCjl1MldzbVZUOXNtOUt3TlZ6Rkd3bHNnWTNOQVJNMWZCZFdsdkdnazFra3QyOWEwZEdaN2xoM1RXaWZFaE1PalF1VUlCTnJ2QUpzUFRWbis1UVVqNkNRPT0K"
     }
   },
   "portable": {
-    "sha256": "b295c6e08fd73ba45fd5ae5bfbf78e81c72d5a9eb97159dac02072c826002cbe",
-    "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.49/MaMaio_0.2.49_x64-portable.zip"
+    "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.50/MaMaio_0.2.50_x64-portable.zip",
+    "sha256": "0376695aa0b05a82e6f778defa57a74157b5df45bf3cd413115a6f1fae7d6436"
   }
 }
