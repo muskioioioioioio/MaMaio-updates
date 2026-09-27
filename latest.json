@@ -1,16 +1,16 @@
 {
-  "version": "0.2.55",
+  "version": "0.2.58",
   "notes": "MaMaio 自动发布版本",
-  "pub_date": "2026-09-25T13:25:50.3320040Z",
-  "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.55/MaMaio_0.2.55_x64-setup.exe",
+  "pub_date": "2026-09-27T16:07:40.2010438Z",
+  "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.58/MaMaio_0.2.58_x64-setup.exe",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSFJmVmJPYjdaNjJTdTIwdjlORjd0VEdlVVA3bXFTMWl3ellCb0N1QTVDWWFNQ1A0cGVzZno2N3lhV2lSeUgvb0o2bzNMMzJlVW04YkxISjBlNVNsTHZNclBzYVdDK0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzQyNTI4CWZpbGU6TWFNYWlvXzAuMi41NV94NjQtc2V0dXAuZXhlCnlWQVh3N3FDaUtrOW9jMW4zaVFlN0tMOTJQNmhwSzRpN0VQSjA4S1IyYmljSDlBR2hNL1NxNjNRZFFBaFkvbFRJbjlaUDZXVXZyWWc2MkcwMHlVL0RRPT0K",
-      "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.55/MaMaio_0.2.55_x64-setup.exe"
+      "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.58/MaMaio_0.2.58_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSFJmVmJPYjdaNitJNkkydnI1WHREaGMxWkw3SWFpaG9hVTEyOUJrK1dqelpVWEZKb2VDRDd5UlIvYWZGdUEybnl0SXovWTQvR0JQNnE2c21jVTNpNUI1T0ZBWk4vTXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTI1MDMwCWZpbGU6TWFNYWlvXzAuMi41OF94NjQtc2V0dXAuZXhlCkxyNUJBenNKVlEydjFwYStNbC8wOEVqR3ZTSitlM0xnRUV6dzJlZGNKNmVycExYZE05V0pYaVZtVDRIcmVXSjZEdHZiRlJReVpFcCtoei9pSmxGQkRBPT0K"
     }
   },
   "portable": {
-    "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.55/MaMaio_0.2.55_x64-portable.zip",
-    "sha256": "5be034097677ec7181469fae86e8922e7dc209b7dd1b8c388a757cef952d3910"
+    "sha256": "8c926eb0cef0e6c18da6db018483a81ccc866a01d5632b62ab0723cfa9cb427d",
+    "url": "https://github.com/muskioioioioioio/MaMaio-updates/releases/download/v0.2.58/MaMaio_0.2.58_x64-portable.zip"
   }
 }
